@@ -2,6 +2,11 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
+    background:
+        radial-gradient(circle at top right, rgba(19, 121, 184, 0.22), transparent 28%),
+        radial-gradient(circle at bottom left, rgba(0, 255, 170, 0.12), transparent 24%),
+        #06111f;
 }
 
 main {
@@ -9,32 +14,32 @@ main {
 }
 
 .sidebar {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background: linear-gradient(180deg, rgba(3, 12, 24, 0.98) 0%, rgba(8, 33, 58, 0.98) 100%);
+    border-right: 1px solid rgba(119, 227, 255, 0.12);
 }
 
 .top-row {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid #d6d5d5;
+    background: rgba(3, 10, 20, 0.72);
+    border-bottom: 1px solid rgba(119, 227, 255, 0.12);
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
     align-items: center;
+    backdrop-filter: blur(14px);
 }
 
-    .top-row ::deep a, .top-row ::deep .btn-link {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-        text-decoration: none;
-    }
+.top-row ::deep a, .top-row ::deep .btn-link {
+    white-space: nowrap;
+    margin-left: 1.5rem;
+    text-decoration: none;
+}
 
-    .top-row ::deep a:hover, .top-row ::deep .btn-link:hover {
-        text-decoration: underline;
-    }
-
-    .top-row ::deep a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
+.topbar-label {
+    color: #b8d7e8;
+    font-size: 0.95rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
 
 @media (max-width: 640.98px) {
     .top-row {
@@ -90,9 +95,9 @@ main {
     z-index: 1000;
 }
 
-    #blazor-error-ui .dismiss {
-        cursor: pointer;
-        position: absolute;
-        right: 0.75rem;
-        top: 0.5rem;
-    }
+#blazor-error-ui .dismiss {
+    cursor: pointer;
+    position: absolute;
+    right: 0.75rem;
+    top: 0.5rem;
+}

@@ -23,7 +23,6 @@ C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\scopedcss\Compo
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\scopedcss\bundle\Jean.styles.css
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\scopedcss\projectbundle\Jean.bundle.scp.css
-C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\1snddhjkc4-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\dncjk8r0on-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\nnckmdd2m1-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\sst5ra6fkj-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -71,8 +70,6 @@ C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\by9y
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\68uys9uwyz-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\6xhpekik91-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\e34r1q4p9r-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\5jjslplbs2-{0}-h0ls64rrfy-h0ls64rrfy.gz
-C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\xn9bep3v1p-{0}-h0ls64rrfy-h0ls64rrfy.gz
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\staticwebassets.development.json
@@ -83,3 +80,7 @@ C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\refint\Jean.dll
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\Jean.pdb
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\Jean.genruntimeconfig.cache
 C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\ref\Jean.dll
+C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\Jean.sourcelink.json
+C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\1snddhjkc4-{0}-ny1t6wd8t5-ny1t6wd8t5.gz
+C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\5jjslplbs2-{0}-eb60riyjvm-eb60riyjvm.gz
+C:\Users\aspir\OneDrive\Desktop\Sinangote\Jean\obj\Debug\net10.0\compressed\xn9bep3v1p-{0}-eb60riyjvm-eb60riyjvm.gz

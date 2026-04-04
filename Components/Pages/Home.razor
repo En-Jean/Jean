@@ -1,7 +1,95 @@
-﻿@page "/"
+@page "/"
 
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<section class="hero-section">
+    <div class="hero-copy">
+        <span class="eyebrow">Portfolio</span>
+        <h1>En-Jean Sinangote</h1>
+        <p class="hero-lead">
+            I am a second-year student exploring software development, UI design, and emerging technologies
+            through class projects, collaborative builds, and constant hands-on practice.
+        </p>
 
-Welcome to your new app.
+        <div class="hero-actions">
+            <NavLink class="hero-link primary" href="projects">View Projects</NavLink>
+            <NavLink class="hero-link" href="about">About Me</NavLink>
+        </div>
+
+        <div class="stat-grid">
+            <div class="tech-card stat-card">
+                <span class="stat-value">2nd Year</span>
+                <span class="stat-label">BSIT student level</span>
+            </div>
+            <div class="tech-card stat-card">
+                <span class="stat-value">5+</span>
+                <span class="stat-label">Practice projects built</span>
+            </div>
+            <div class="tech-card stat-card">
+                <span class="stat-value">3</span>
+                <span class="stat-label">Main focus areas</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="hero-visual tech-card">
+        <div class="avatar-shell">
+            <img src="en.jpg" alt="Portrait of En-Jean Sinangote" class="profile-image" />
+        </div>
+        <div class="signal-panel">
+            <div>
+                <span class="signal-label">Current Focus</span>
+                <strong>Web Development</strong>
+            </div>
+            <div>
+                <span class="signal-label">Interested In</span>
+                <strong>Frontend, databases, and problem solving</strong>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content-grid">
+    <div class="tech-card">
+        <h2>Student Snapshot</h2>
+        <p>
+            I am building my foundation in programming, responsive interfaces, and basic system design.
+            Most of my projects are centered on learning by doing, improving team collaboration, and turning ideas into
+            polished class-ready outputs.
+        </p>
+    </div>
+
+    <div class="tech-card">
+        <h2>What Drives Me</h2>
+        <p>
+            I enjoy creating practical apps, improving UI clarity, and understanding how modern tools can make
+            student projects feel more professional and user-friendly.
+        </p>
+    </div>
+</section>
+
+<section class="section-stack">
+    <div class="section-heading">
+        <span class="section-kicker">Explore</span>
+        <h2>Portfolio Sections</h2>
+    </div>
+
+    <div class="feature-grid">
+        <NavLink class="tech-card feature-link" href="projects">
+            <h3>Projects</h3>
+            <p>My coursework apps, prototypes, and personal experiments in development.</p>
+        </NavLink>
+        <NavLink class="tech-card feature-link" href="skills">
+            <h3>Skills</h3>
+            <p>My growing technical skills in coding, design thinking, and digital tools.</p>
+        </NavLink>
+        <NavLink class="tech-card feature-link" href="about">
+            <h3>About</h3>
+            <p>A short profile covering my goals, interests, and academic direction.</p>
+        </NavLink>
+        <NavLink class="tech-card feature-link" href="experience">
+            <h3>Experience</h3>
+            <p>My student leadership, teamwork, and learning experiences so far.</p>
+        </NavLink>
+    </div>
+</section>
